@@ -4,4 +4,5 @@ export type Article = {
   urlToImage: string;
   publishedAt: string;
   url: string;
+  memo: string;
 };
